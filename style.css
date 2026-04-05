@@ -1,0 +1,43 @@
+body {
+    background-color: #F3F4F6;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.shimmer-card {
+    background-color: #FCF8F8;
+    width: 380px;
+    padding: 40px 30px;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.card-title {
+    font-family: 'Fraunces', serif;
+    font-size: 28px;
+    color: #1A1A1A;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.card-desc {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
+.btn-primary {
+    background-color: #B496E6;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+    padding: 12px 24px;
+    cursor: pointer;
+}
